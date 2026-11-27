@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-High-Speed-In-Memory-Cache-Key-Value-Store/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-High-Speed-In-Memory-Cache-Key-Value-Store?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-High-Speed-In-Memory-Cache-Key-Value-Store/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-High-Speed-In-Memory-Cache-Key-Value-Store?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-High-Speed-In-Memory-Cache-Key-Value-Store/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-High-Speed-In-Memory-Cache-Key-Value-Store?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-High-Speed-In-Memory-Cache-Key-Value-Store/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-High-Speed-In-Memory-Cache-Key-Value-Store" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-High-Speed-In-Memory-Cache-Key-Value-Store/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-High-Speed-In-Memory-Cache-Key-Value-Store" alt="License" /></a>
@@ -66,7 +66,7 @@ High-performance open-source caching servers, multi-threaded key-value stores, d
 
 ### ⚡ Redis-Compatible & Multi-Threaded In-Memory Stores
 
-| Project 🛠️ | Stars ⭐ | Description 📝 |
+| Project 🛠️ | GitHub_Stars ⭐ | Description 📝 |
 | :--- | :--- | :--- |
 | **[Redis](https://github.com/redis/redis)** | [![Stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers) | The quintessential in-memory data structure store used as a cache, message broker, and streaming engine. |
 | **[Dragonfly](https://github.com/dragonflydb/dragonfly)** | [![Stars](https://img.shields.io/github/stars/dragonflydb/dragonfly?style=social&color=white)](https://github.com/dragonflydb/dragonfly/stargazers) | Modern multi-threaded, shared-nothing in-memory datastore fully compatible with Redis & Memcached APIs at up to 25x throughput. |
@@ -80,7 +80,7 @@ High-performance open-source caching servers, multi-threaded key-value stores, d
 
 ### 🌐 Distributed In-Memory Data Grids & Low-Latency Stores
 
-| Project 🛠️ | Stars ⭐ | Description 📝 |
+| Project 🛠️ | GitHub_Stars ⭐ | Description 📝 |
 | :--- | :--- | :--- |
 | **[etcd](https://github.com/etcd-io/etcd)** | [![Stars](https://img.shields.io/github/stars/etcd-io/etcd?style=social&color=white)](https://github.com/etcd-io/etcd/stargazers) | Strongly consistent, distributed in-memory key-value store providing reliable shared configuration and service discovery across clusters. |
 | **[Hazelcast](https://github.com/hazelcast/hazelcast)** | [![Stars](https://img.shields.io/github/stars/hazelcast/hazelcast?style=social&color=white)](https://github.com/hazelcast/hazelcast/stargazers) | Open-source distributed in-memory compute and storage platform providing partitioned key-value maps, queues, and streaming pipelines. |
@@ -93,7 +93,7 @@ High-performance open-source caching servers, multi-threaded key-value stores, d
 
 ### 📨 High-Throughput Memcached-Protocol & Sharded Caches
 
-| Project 🛠️ | Stars ⭐ | Description 📝 |
+| Project 🛠️ | GitHub_Stars ⭐ | Description 📝 |
 | :--- | :--- | :--- |
 | **[Memcached](https://github.com/memcached/memcached)** | [![Stars](https://img.shields.io/github/stars/memcached/memcached?style=social&color=white)](https://github.com/memcached/memcached/stargazers) | The industry-standard, lightweight, distributed memory object caching system engineered for raw performance and simplicity. |
 | **[Groupcache](https://github.com/golang/groupcache)** | [![Stars](https://img.shields.io/github/stars/golang/groupcache?style=social&color=white)](https://github.com/golang/groupcache/stargazers) | Distributed caching and cache-filling Go library engineered as a coordinated peer-to-peer replacement for a pool of Memcached nodes. |
@@ -104,7 +104,7 @@ High-performance open-source caching servers, multi-threaded key-value stores, d
 
 ### 📦 Embedded & In-Process High-Speed Key-Value Libraries
 
-| Project 🛠️ | Stars ⭐ | Description 📝 |
+| Project 🛠️ | GitHub_Stars ⭐ | Description 📝 |
 | :--- | :--- | :--- |
 | **[Caffeine](https://github.com/ben-manes/caffeine)** | [![Stars](https://img.shields.io/github/stars/ben-manes/caffeine?style=social&color=white)](https://github.com/ben-manes/caffeine/stargazers) | High-performance, near-optimal in-memory caching library for Java utilizing Window TinyLFU eviction policies. |
 | **[BigCache](https://github.com/allegro/bigcache)** | [![Stars](https://img.shields.io/github/stars/allegro/bigcache?style=social&color=white)](https://github.com/allegro/bigcache/stargazers) | Fast, concurrent, evicting in-memory cache written in Go capable of holding millions of entries without garbage collection pauses. |
@@ -117,7 +117,7 @@ High-performance open-source caching servers, multi-threaded key-value stores, d
 
 ### 💾 Persistent & Hybrid Flash/RAM Key-Value Engines
 
-| Project 🛠️ | Stars ⭐ | Description 📝 |
+| Project 🛠️ | GitHub_Stars ⭐ | Description 📝 |
 | :--- | :--- | :--- |
 | **[RocksDB](https://github.com/facebook/rocksdb)** | [![Stars](https://img.shields.io/github/stars/facebook/rocksdb?style=social&color=white)](https://github.com/facebook/rocksdb/stargazers) | High-performance embedded key-value storage engine in C++ based on LSM-trees, engineered for fast flash storage and server workloads. |
 | **[TiKV](https://github.com/tikv/tikv)** | [![Stars](https://img.shields.io/github/stars/tikv/tikv?style=social&color=white)](https://github.com/tikv/tikv/stargazers) | CNCF-graduated distributed, transactional key-value database built in Rust providing horizontal scalability, Raft consensus, and ACID transactions. |
@@ -141,7 +141,7 @@ Contributions are warmly welcomed! Help keep this curated resource fresh, compre
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a feature branch (`git checkout -b feature/awesome-cache-addition`).
-3. ✏️ Add your open-source cache or high-speed storage engine with a concise description and correct star badge.
+3. ✏️ Add your open-source cache or high-speed storage engine with a concise description and correct Stars_Badge.
 4. 🚀 Commit your changes (`git commit -m 'Add awesome cache project'`).
 5. 📬 Open a Pull Request.
 
